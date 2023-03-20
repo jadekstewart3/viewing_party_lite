@@ -1,0 +1,2 @@
+class ViewingPartyUser < ApplicationRecord
+end
